@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.17</version>
-    <url>https://github.com/kavitauab/releases/releases/download/atlant-v1.0.17/atlant-v1.0.17-standalone.zip</url>
-    <changelog>https://github.com/kavitauab/releases/releases/tag/atlant-v1.0.17</changelog>
+    <version>1.0.18</version>
+    <url>https://github.com/kavitauab/releases/releases/download/atlant-v1.0.18/atlant-v1.0.18-standalone.zip</url>
+    <changelog>https://github.com/kavitauab/releases/releases/tag/atlant-v1.0.18</changelog>
     <mandatory>false</mandatory>
 </item>
