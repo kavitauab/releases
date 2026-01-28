@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.11</version>
-    <url>https://github.com/kavitauab/releases/releases/download/saga-v1.0.11/saga-v1.0.11-standalone.zip</url>
-    <changelog>https://github.com/kavitauab/releases/releases/tag/saga-v1.0.11</changelog>
+    <version>1.0.12</version>
+    <url>https://github.com/kavitauab/releases/releases/download/saga-v1.0.12/saga-v1.0.12-standalone.zip</url>
+    <changelog>https://github.com/kavitauab/releases/releases/tag/saga-v1.0.12</changelog>
     <mandatory>false</mandatory>
 </item>
