@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.5</version>
-    <url>https://github.com/kavitauab/releases/releases/download/freya-v1.0.5/freya-v1.0.5-standalone.zip</url>
-    <changelog>https://github.com/kavitauab/releases/releases/tag/freya-v1.0.5</changelog>
+    <version>1.0.6</version>
+    <url>https://github.com/kavitauab/releases/releases/download/freya-v1.0.6/freya-v1.0.6-standalone.zip</url>
+    <changelog>https://github.com/kavitauab/releases/releases/tag/freya-v1.0.6</changelog>
     <mandatory>false</mandatory>
 </item>
