@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.20</version>
-    <url>https://github.com/kavitauab/releases/releases/download/kara-v1.0.20/kara-v1.0.20.zip</url>
-    <changelog>https://github.com/kavitauab/releases/releases/tag/kara-v1.0.20</changelog>
+    <version>1.0.23</version>
+    <url>https://github.com/kavitauab/releases/releases/download/kara-v1.0.23/kara-setup-v1.0.23.exe</url>
+    <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-</args>
+    <changelog>https://github.com/kavitauab/releases/releases/tag/kara-v1.0.23</changelog>
     <mandatory>false</mandatory>
 </item>
