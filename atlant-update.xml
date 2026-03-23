@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.43</version>
-    <url>https://github.com/kavitauab/releases/releases/download/atlant-v1.0.43/atlant-setup-v1.0.43.exe</url>
+    <version>1.0.44</version>
+    <url>https://github.com/kavitauab/releases/releases/download/atlant-v1.0.44/atlant-setup-v1.0.44.exe</url>
     <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-</args>
-    <changelog>https://github.com/kavitauab/releases/releases/tag/atlant-v1.0.43</changelog>
+    <changelog>https://github.com/kavitauab/releases/releases/tag/atlant-v1.0.44</changelog>
     <mandatory>true</mandatory>
 </item>
