@@ -2,6 +2,7 @@
 <item>
     <version>1.0.50</version>
     <url>https://github.com/kavitauab/releases/releases/download/hoya-v1.0.50/hoya-setup-v1.0.50.exe</url>
+    <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-</args>
     <changelog>https://github.com/kavitauab/releases/releases/tag/hoya-v1.0.50</changelog>
     <mandatory>true</mandatory>
 </item>
