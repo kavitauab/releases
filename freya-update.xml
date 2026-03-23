@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.33</version>
-    <url>https://github.com/kavitauab/releases/releases/download/freya-v1.0.33/freya-setup-v1.0.33.exe</url>
-    <changelog>https://github.com/kavitauab/releases/releases/tag/freya-v1.0.33</changelog>
+    <version>1.0.34</version>
+    <url>https://github.com/kavitauab/releases/releases/download/freya-v1.0.34/freya-setup-v1.0.34.exe</url>
+    <changelog>https://github.com/kavitauab/releases/releases/tag/freya-v1.0.34</changelog>
     <mandatory>true</mandatory>
 </item>
