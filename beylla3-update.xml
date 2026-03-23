@@ -2,7 +2,6 @@
 <item>
     <version>1.0.39</version>
     <url>https://github.com/kavitauab/releases/releases/download/beylla3-v1.0.39/beylla3-setup-v1.0.39.exe</url>
-    <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-</args>
     <changelog>https://github.com/kavitauab/releases/releases/tag/beylla3-v1.0.39</changelog>
     <mandatory>true</mandatory>
 </item>
