@@ -2,6 +2,7 @@
 <item>
     <version>1.0.40</version>
     <url>https://github.com/kavitauab/releases/releases/download/saga-v1.0.40/saga-setup-v1.0.40.exe</url>
+    <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-</args>
     <changelog>https://github.com/kavitauab/releases/releases/tag/saga-v1.0.40</changelog>
     <mandatory>true</mandatory>
 </item>
