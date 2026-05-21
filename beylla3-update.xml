@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.159</version>
-    <url>https://github.com/kavitauab/releases/releases/download/beylla3-v1.0.159/beylla3-setup-v1.0.159.exe</url>
+    <version>1.0.160</version>
+    <url>https://github.com/kavitauab/releases/releases/download/beylla3-v1.0.160/beylla3-setup-v1.0.160.exe</url>
     <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-</args>
-    <changelog>https://github.com/kavitauab/releases/releases/tag/beylla3-v1.0.159</changelog>
+    <changelog>https://github.com/kavitauab/releases/releases/tag/beylla3-v1.0.160</changelog>
     <mandatory>true</mandatory>
 </item>
