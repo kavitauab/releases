@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.114</version>
-    <url>https://github.com/kavitauab/releases/releases/download/saga-v1.0.114/saga-setup-v1.0.114.exe</url>
+    <version>1.0.115</version>
+    <url>https://github.com/kavitauab/releases/releases/download/saga-v1.0.115/saga-setup-v1.0.115.exe</url>
     <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-</args>
-    <changelog>https://github.com/kavitauab/releases/releases/tag/saga-v1.0.114</changelog>
+    <changelog>https://github.com/kavitauab/releases/releases/tag/saga-v1.0.115</changelog>
     <mandatory>true</mandatory>
 </item>
