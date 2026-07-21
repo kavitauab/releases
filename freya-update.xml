@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.64</version>
-    <url>https://github.com/kavitauab/releases/releases/download/freya-v1.0.64/freya-setup-v1.0.64.exe</url>
+    <version>1.0.68</version>
+    <url>https://github.com/kavitauab/releases/releases/download/freya-v1.0.68/freya-setup-v1.0.68.exe</url>
     <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-</args>
-    <changelog>https://github.com/kavitauab/releases/releases/tag/freya-v1.0.64</changelog>
+    <changelog>https://github.com/kavitauab/releases/releases/tag/freya-v1.0.68</changelog>
     <mandatory>true</mandatory>
 </item>
